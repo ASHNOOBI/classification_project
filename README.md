@@ -42,15 +42,4 @@ This repository contains the following files and directories:
 
 - **README.md**: This file provides an overview of the repository, its objectives, the clustering process, benefits, and repository structure.
 
-## Usage
 
-To use this repository, follow these steps:
-
-1. Clone the repository to your local machine using the following command:
-   ```
-   git clone https://github.com/Shraddha6999/NETFLIX_MOVIES_AND_TV_SHOWS_CLUSTERING
-   ```
-
-2. Navigate to the `notebooks` directory and open the Jupyter notebooks to explore the clustering process, algorithms, and analysis.
-
-3. Access the `data` directory to retrieve the dataset used for clustering
