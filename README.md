@@ -2,8 +2,8 @@ Problem Statement-Credit card default happens when you have become severely deli
 
 The project involves the following steps:-
 
-Data Cleaning
-EDA
-SMOTE
-Model Training and Implementation
-Model Evaluation and Validation
+                              1.  Data Cleaning
+                              2.  EDA
+                              3.  SMOTE
+                              4.  Model Training and Implementation
+                              5.  Model Evaluation and Validation
